@@ -14,10 +14,10 @@ This is a simple implementation of the classic Snake game using Java and Swing f
 - 
 ## How to Play
 Use the arrow keys to control the direction of the snake:
-# Left Arrow: Move left
-# Right Arrow: Move right
-# Up Arrow: Move up
-# Down Arrow: Move down
+Left Arrow: Move left
+Right Arrow: Move right
+Up Arrow: Move up
+Down Arrow: Move down
 The objective is to eat as many apples as possible. Each apple increases your score by 1 point.
 Every fifth apple is a bonus apple. You must eat the bonus apple within 5 seconds to earn 5 extra points.
 The game ends if the snake collides with the walls or its own body.
