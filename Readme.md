@@ -11,7 +11,6 @@ This is a simple implementation of the classic Snake game using Java and Swing f
 - Bonus apples that appear every fifth apple and must be eaten within 5 seconds to earn extra points
 - Simple, intuitive controls
 - Retro-inspired graphics
-- 
 ## How to Play
 Use the arrow keys to control the direction of the snake:
 Left Arrow: Move left
