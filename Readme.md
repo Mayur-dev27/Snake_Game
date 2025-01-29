@@ -1,5 +1,5 @@
 # Snake Game
-Welcome to the classic Snake game implemented in Java!
+Welcome to the classic Snake game implemented in Java!  
 
 ## Project Description
 This is a simple implementation of the classic Snake game using Java and Swing for the graphical user interface. The objective of the game is to control the snake, collect apples, and avoid collisions with the walls and the snake's own body. The game also features a high score system that remembers the highest score achieved across game sessions.
