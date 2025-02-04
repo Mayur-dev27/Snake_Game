@@ -7,7 +7,7 @@ This is a simple implementation of the classic Snake game using Java and Swing f
 # Features
 - Classic Snake gameplay
 - Score tracking
-- High score persistence
+- High score persistence 
 - Bonus apples that appear every fifth apple and must be eaten within 5 seconds to earn extra points
 - Simple, intuitive controls
 - Retro-inspired graphics
